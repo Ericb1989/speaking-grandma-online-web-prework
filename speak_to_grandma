@@ -1,0 +1,10 @@
+speak_to_grandma = "Hi grandma!"
+if name == "Hi Grandma!"
+Phrase = "HUH?! SPEAK UP, SONNY!"
+end
+elseif name == "GRANDMA!"
+phrase= NO, NOT SINCE 1938!
+end
+elseif name= "Ilove you grandma!"
+phrase= "I Love You TOO PUMPKIN
+end

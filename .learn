@@ -1,8 +1,14 @@
-tags:
-  - logic
-  - conditionals
-  - string manipulation
-  - method arguments
-languages:
-  - ruby
-resources: 2
+(speak_to_grandma('I LOVE YOU GRANDMA!')).to eq 'I LOVE YOU TOO PUMPKIN!'
+  end
+
+(speak_to_grandma('Hi Nana, how are you?')).to eq 'HUH?! SPEAK UP, SONNY!'
+  end
+  
+(speak_to_grandma('Hi!')).to eq 'HUH?! SPEAK UP, SONNY!'
+  end
+  
+(speak_to_grandma('WHAT DID YOU EAT TODAY?')).to eq "NO, NOT SINCE 1938!"
+  end
+
+(speak_to_grandma('WHAT?')).to eq "NO, NOT SINCE 1938!"
+  end
